@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyectoGIT", "proyectoGIT\proyectoGIT.csproj", "{77B1318D-CE82-4A54-AEDC-3852B975BB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B1318D-CE82-4A54-AEDC-3852B975BB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B1318D-CE82-4A54-AEDC-3852B975BB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B1318D-CE82-4A54-AEDC-3852B975BB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B1318D-CE82-4A54-AEDC-3852B975BB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C93548-A988-4DC5-8DB2-F50DB380F395}
+	EndGlobalSection
+EndGlobal
